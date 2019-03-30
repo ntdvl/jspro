@@ -1,0 +1,10 @@
+console.log(null == false);
+console.log(null === false);
+console.log(undefined == false);
+console.log(undefined === false);
+console.log(null == 0);
+console.log(null === 0);
+console.log(undefined == 0);
+console.log(undefined === 0);
+console.log(undefined == null);
+console.log(undefined === null);
