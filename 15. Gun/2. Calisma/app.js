@@ -1,0 +1,1 @@
+var div = document.getElementById('test').style.background = 'red';
